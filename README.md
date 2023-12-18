@@ -9,12 +9,10 @@ Python backend developer with solid expireance in **Django**, **DRF**, **Unit Te
 <a href="https://t.me/savytskyianton"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
 
 
-👩‍💻 I'm currently working on 2 projects:
+## 🧑‍💻 I'm currently working on 2 projects:
 
 - [Vscubing](https://github.com/vscubing) - opensource and free-to-contribute site to compete in solving virtual Rubik's cube. Everybody is welcome on board!
 - [Carloteka](https://github.com/Carloteka) - an online shop for wood goods we build in a team.
-
-🧠 I'm currently learning **html**, **scss** with mentor and prepearing to learn **js** and **react**.
 
 #
 
