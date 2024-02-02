@@ -1,15 +1,18 @@
+<h1 align="center">
+  Hi, I'm Anton Savytskyi! 👋
+</h1>
 
-# Hi, I'm Anton Savytskyi! 👋
 
-
-## 🚀 About Me
-Python backend developer with scope on **Django**, **DRF**, **Unit Tesing**, **SQL Databases**, **Docker**, **Writing documentation**,
+<h2>
+  About
+</h2>
+Python backend developer with scope on Django, DRF, Unit Testing, SQL Databases, clear code, and architecture.
 
 <a href="https://www.linkedin.com/in/anton-savytskyi/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
 <a href="https://t.me/savytskyianton"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
 
 
-## 🧑‍💻 I'm currently working on 2 projects:
+## Projects in development
 
 - [Vscubing](https://github.com/vscubing) - opensource and free-to-contribute site to compete in solving virtual Rubik's cube. Everybody is welcome on board!
 - [Carloteka](https://github.com/Carloteka) - an online shop for wood goods we build in a team.
