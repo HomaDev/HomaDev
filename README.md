@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-Python backend developer with solid expireance in **Django**, **DRF**, **Unit Tesing**, **SQL Databases**, **Docker**, **Writing documentation**,
+Python backend developer with scope on **Django**, **DRF**, **Unit Tesing**, **SQL Databases**, **Docker**, **Writing documentation**,
 
 <a href="https://www.linkedin.com/in/anton-savytskyi/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
 <a href="https://t.me/savytskyianton"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
