@@ -8,6 +8,8 @@
 </h2>
 Python backend developer with scope on Django, DRF, Unit Testing, SQL Databases, clear code, and architecture.
 
+######
+
 <a href="https://www.linkedin.com/in/anton-savytskyi/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
 <a href="https://t.me/savytskyianton"><img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
 
